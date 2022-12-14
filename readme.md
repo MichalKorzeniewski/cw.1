@@ -1,1 +1,1 @@
-https://github.com/MichalKorzeniewski/cw.1
+https://michalkorzeniewski.github.io//cw.1/
